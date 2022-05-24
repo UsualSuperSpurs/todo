@@ -7,6 +7,8 @@
 
 <!--index.html-->
 
+<p>Hello, {{ user.username|default:'Guest' }} !   </p>
+
 {% if object_list %}
 
 <h3>All my lists</h3>
