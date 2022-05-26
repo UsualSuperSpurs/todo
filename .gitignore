@@ -3,3 +3,4 @@
 todo_app/migrations/__pycache__/
 todo_app/__pycache__/
 todo_project/__pycache__/
+todo_list/db.sqlite3
